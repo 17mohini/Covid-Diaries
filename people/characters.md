@@ -1,1 +1,0 @@
-1. Jai - a 42-year old Indian man. Been in USA for last 15 years. Works at a tech comany, is in management. Married.
