@@ -12,9 +12,9 @@ If reading that helps you feel good even for a moment, this work has served its 
 
 ***
 
-### Logistics
+### How to contribute?
 - This website is backed by a Git repository, and contributions are to be made there.
-- If that sounds unfamiliar, there's a simpler way. Just send your contributions to covid.diaries.submissions@gmail.com. For each email, please use meaningful subject lines, and also tell us a bit about your contribution.
+- If that sounds unfamiliar, __there's a simpler way__. Just send your contributions to [covid.diaries.submissions@gmail.com](mailto:covid.diaries.submissions@gmail.com). For each email, please use meaningful subject lines, and also tell us a bit about your contribution.
 - Those familiar with the mechanics of Git/GitHub, please read on!
 	- Create issues to request changes from original authors, and assign those to them.
 	- Pages will be built off `master`.
