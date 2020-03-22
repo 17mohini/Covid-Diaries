@@ -1,7 +1,5 @@
 # Covid Diaries
 
-__A global, collaboratively developed account of the current times, written from near-future__
-
 _So... this all seems horrible._ We are still in the initial phase of this epidemic. Number of cases and deaths are growing. Supply shortages are here and economic turmoil is starting. The constant anxity, the fear of losing jobs or loved ones, or having to deal with that already - the present is bleak. The Pandora's box is open, and the terrifying creatures have taken over the world. 
 
 But there is hope too. And we will hope, even if the present offers little to feel hopeful about. That's the thing - there are signs everywhere. From the clear canals of Venice to us being there for each other, the present is offering something to feel hopeful. What if that continues? What if these solitary sparks become explosions of light? What if - fully acknowledging the terrible cost - we come out better on the other side?
