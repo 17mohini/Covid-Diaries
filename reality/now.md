@@ -17,7 +17,7 @@ Every year, for two months, the whole nation shuts down. Every American is given
 # India
 ### Geo-political Landscape
 - India and Pakistan are (re)learning to cooperate. SAARC is a major force on the global stage.
-- India also shuts down for two months every year. Janta Curfews happen in the summer for two . 
+- India also shuts down for two months every year. The term 'Janta Curfew', first used in 2020, has stuck.
 
 # Saudi Arabia/Middle East
 - Reacting to the reduced demand for oil, the countries have aggressively invested in renewable energy. 
