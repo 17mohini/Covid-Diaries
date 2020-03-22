@@ -1,6 +1,6 @@
 # Covid Diaries
 
-*A global, collaboratively developed account of the current times, written from near-future*
+__A global, collaboratively developed account of the current times, written from near-future__
 
 _So... this all seems horrible._ We are still in the initial phase of this epidemic. Number of cases and deaths are growing. Supply shortages are here and economic turmoil is starting. The constant anxity, the fear of losing jobs or loved ones, or having to deal with that already - the present is bleak. The Pandora's box is open, and the terrifying creatures have taken over the world. 
 
