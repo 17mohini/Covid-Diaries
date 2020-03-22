@@ -8,9 +8,9 @@ Let's imagine that future. Together.
 
 ***
 
-We are writing from near-future, about the then present and the then recent past. Does that sound confusing? If so, please read the [diary entries](/diaries/index.md) from future, and see what [that new future](/reality/now.md) could be.
+We are writing from near-future, about the then present and the then recent past. Confusing? Please read the [diary entries](/diaries/index.md) from future, and see what [that new future](/reality/now.md) could be.
 
-If that helps you feel good even for a moment, this work has served its purpose. And, if you want to build upon this, you are welcome to contribute. Please help define the new reality. And write, as people, living in times better than the current ones.
+If reading that helps you feel good even for a moment, this work has served its purpose. And, you are welcome to contribute. This is for us; as much yours as it is mine or anyone else's. Please help define the new reality. And write, as people, living in times better than the current ones.
 
 ***
 
