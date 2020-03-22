@@ -1,28 +1,27 @@
 # Covid Diaries
 
-### Vision
-A global, collaboratively developed account of the current times, written from near-future
+*A global, collaboratively developed account of the current times, written from near-future*
 
-### Details
-- We start a few years from now.
-- We define the current state of the world in [reality](/reality/now.md).
-- We define the characters in [characters](/people/characters.md).
-- We write the diary entries in [diaries](/diaries).
+_So... this all seems horrible._ We are still in the initial phase of this epidemic. Number of cases and deaths are growing. Supply shortages are here and economic turmoil is starting. The constant anxity, the fear of losing jobs or loved ones, or having to deal with that already - the present is bleak. The Pandora's box is open, and the terrifying creatures have taken over the world. 
 
-### Getting Started
-1. Read [now.md](/reality/now.md)
-2. Read some diary entries and see who's writing them in [characters.md](/people/characters.md).
-2. Define a character in this [characters.md](/people/characters.md) file.
-3. Create a folder in [diaries](/diaries). Give it the name of your character. Create a file and start writing entries!
-4. _Reality_ is special. Create PRs for submitting changes and contributing to [reality](/reality).
+But there is hope too. And we will hope, even if the present offers little to feel hopeful about. That's the thing - there are signs everywhere. From the clear canals of Venice to us being there for each other, the present is offering something to feel hopeful. What if that continues? What if these solitary sparks become explosions of light? What if - fully acknowledging the terrible cost - we come out better on the other side?
+
+Let's imagine that future. Together.
+
+***
+
+We are writing from near-future, about the then present and the then recent past. Does that sound confusing? If so, please read the [diary entries](/diaries/index.md) from future, and see what the [new reality](/reality/now.md) looks like.
+
+If that helps you feel good even for a moment, this work has served its purpose. And, if you want to build upon this, you are welcome to contribute. Please help define the new reality. And write, as people, living in times better than the current ones.
 
 ***
 
 ### Logistics
-- Create issues to request changes from original authors, and assign those to them.
-- Create issues for yourselves as well if you need to.
-- Pages will be built off `master`.
-- Create branches for _any_ changes and do PRs for `master`.
-- Branches must have meaningful names. 
-- Commit messages must be meaningful.
-- Braches are to be short-lived, to be deleted after the changes are merged in `master`.
+- This website is backed by a Git repository, and contributions are to be made there.
+- If that sounds unfamiliar, there's a simpler way. Just send your contributions to covid.diaries.submissions@gmail.com. For each email, please use meaningful subject lines, and also tell us a bit about your contribution.
+- Those familiar with the mechanics of Git/GitHub, please read on!
+	- Create issues to request changes from original authors, and assign those to them.
+	- Pages will be built off `master`.
+	- Create branches for _any_ changes and do PRs for `master`.
+	- Branches must have meaningful names and commit messages must be meaningful.
+	- Braches are to be deleted after the changes are merged in `master`.
